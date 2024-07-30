@@ -3,10 +3,8 @@
 <p id="description">This innovative project aims to develop a comprehensive gas leakage detection system by harnessing the capabilities of the ESP8266 microcontroller for detecting gas. The LPG gas leakage detection system is built to solve the problem by successfully detecting any gas leaks and triggering the various alert mechanism as well as automatically shut off the regulator.</p>
 
 <h2>Project Screenshots:</h2>
-![IMG_0493](https://github.com/user-attachments/assets/a36a76b6-dbd0-4f6e-ad93-a622dead9eb8)
-![IMG_0496](https://github.com/user-attachments/assets/36d73cba-4910-43a4-9427-b16af828794d)
-
-  
+<img width="1624" alt="Screenshot 2024-07-27 at 12 24 21" src="https://github.com/user-attachments/assets/a36a76b6-dbd0-4f6e-ad93-a622dead9eb8">  
+<img width="1624" alt="Screenshot 2024-07-27 at 12 24 21" src="https://github.com/user-attachments/assets/36d73cba-4910-43a4-9427-b16af828794d">
   
 <h2>🧐 Features</h2>
 
