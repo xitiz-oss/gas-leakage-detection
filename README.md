@@ -20,6 +20,7 @@ Here're some of the project's best features:
 
   
 <h2>MATLAB Code</h2>
+
 ```
 % Creating the body for the warning/ alert
 alertBody = 'GAS LEAKAGE DETECTED\nPlease attend to the situation before it
